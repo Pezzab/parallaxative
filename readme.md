@@ -10,6 +10,7 @@ Features I'm aiming for:
 * to be easily customisable
 * parallax effects could also be triggered by hover or click events
 * currently requires all three layers - will eventually work with two. Just one seems silly
+* needs funkier demo images
 
 ##Acknowledgements:
 
@@ -18,5 +19,5 @@ My starting point for this code comes from:
 * [CrocoDillon](http://codepen.io/CrocoDillon/pen/ukotd)
 * [Jonathon Nicol](http://jonathannicol.com/blog/2011/08/06/build-a-parallax-scrolling-website-interface-with-jquery-and-css)
 
- * no, I'm not a comedian 
+\* no, I'm not a comedian 
 
