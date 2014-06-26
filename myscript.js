@@ -4,13 +4,13 @@ $( function() {
   var layers = element.css( 'background-position' ).split( ',' );
 
   // add rate of postion change to x and y for each layer
-  var lay0xpos = .5;
+  var lay0xpos = 1;
   var lay0ypos = 0;
 
-  var lay1xpos = .7;
+  var lay1xpos = 2;
   var lay1ypos = 0;
 
-  var lay2xpos = 1;
+  var lay2xpos = 3;
   var lay2ypos = 0;
 
   // if background-position is set in your stylesheet make this the starting position for each layer

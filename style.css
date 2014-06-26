@@ -1,4 +1,7 @@
 body {
-	background: url('layer1.png'), url('layer2.png'), url('layer3.png');
+	background: url('layer0.png'), url('layer1.png'), url('layer2.png');
 	}
-	
+.header {
+	background: white;
+	padding:20px;
+}

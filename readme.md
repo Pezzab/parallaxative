@@ -2,12 +2,14 @@
 
 This is a no frills parallax effect plugin to be applied to multi-layered CSS backgrounds
 
+[Demo here](http://pointatthemoon.co.uk/wp-content/uploads/parallaxative/)
+
 Features I'm aiming for:
 
-* if background-position/s are set the plugin should accomodate these
 * aim to add some basic animation - ie pngs could conceivably be made to move in circular motions
 * to be easily customisable
 * parallax effects could also be triggered by hover or click events
+* currently requires all three layers - will eventually work with two. Just one seems silly
 
 ##Acknowledgements:
 
