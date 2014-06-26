@@ -20,5 +20,5 @@ My starting point for this code comes from:
 * [CrocoDillon](http://codepen.io/CrocoDillon/pen/ukotd)
 * [Jonathon Nicol](http://jonathannicol.com/blog/2011/08/06/build-a-parallax-scrolling-website-interface-with-jquery-and-css)
 
-\* no, I'm not a comedian 
+\* no, you're right, I'm not a comedian 
 
