@@ -11,6 +11,7 @@ Features I'm aiming for:
 * parallax effects could also be triggered by hover or click events
 * currently requires all three layers - will eventually work with two. Just one seems silly
 * needs funkier demo images
+* needs instructions
 
 ##Acknowledgements:
 
