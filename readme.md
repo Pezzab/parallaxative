@@ -12,6 +12,7 @@ Features I'm aiming for:
 * currently requires all three layers - will eventually work with two. Just one seems silly
 * needs funkier demo images
 * needs instructions
+* needs to work on mobile
 
 ##Acknowledgements:
 
